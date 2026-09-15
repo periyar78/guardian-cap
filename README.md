@@ -30,4 +30,4 @@ Sensor data is transmitted to Firebase Realtime Database and displayed on a web 
 ![Guardian Cap Dashboard](assets/dashboard.png)
 
 
->>>>>>> e214a4a (Upload complete project)
+
